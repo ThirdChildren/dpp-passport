@@ -1,0 +1,10 @@
+{
+  "name": "Grotti On The Roof",
+  "description": "Digital Product Passport – 2025 edition.",
+  "image": "ipfs://bafybeia7pzrqixb2rlcgg4tukyht6myeb4lthgetmtwm5a5pqcynu53ja4/Grotti_on_the_roof.png",
+  "attributes": [
+    { "trait_type": "GTIN", "value": "00012345600012" },
+    { "trait_type": "Batch", "value": "LOT-2025-07-1005-A" },
+    { "trait_type": "Proteins (kg)", "value": 4.86 }
+  ]
+}
